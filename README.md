@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://your-repository-url.git
+git clone https://github.com/kamaldhari/react-firebase-notifier.git
 cd path-to-your-project
 ```
 
